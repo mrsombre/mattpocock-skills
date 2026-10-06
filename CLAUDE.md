@@ -1,3 +1,9 @@
+## Fork
+
+This repo is a fork of [`mattpocock/skills`](https://github.com/mattpocock/skills). The main working branch is `trail`. Always read [FORK.md](./FORK.md) before you change the repo: its rules override the rules below.
+
+## Repo rules
+
 Skills are organized into bucket folders under `skills/`:
 
 - `engineering/`: daily code work
